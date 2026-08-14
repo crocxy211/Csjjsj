@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Read from environment variables with fallback defaults
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8542271588:AAFQdFu3Eu90Poe2LxyzbqoHHJRdfiytiLw").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8736586353:AAGfNZ1_Dhl6b1awb8x5TKG1FQYYoK7nnc0").strip()
 
 # --- DOUBLE ADMIN SYSTEM SETUP ---
 PERMANENT_ADMIN = 8797858167  # Tumhara fixed admin ID
